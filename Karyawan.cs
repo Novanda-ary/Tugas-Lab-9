@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CRUD_OPP_2685
+namespace CRUD_OPP_2695
 {
     abstract class Karyawan
     {
